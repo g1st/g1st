@@ -1,4 +1,6 @@
-### Hi there, an aspiring web developer here 👋
+### Hi there 👋
+
+### 📈
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=g1st&custom_title=My%20GitHub%20Stats)
 
