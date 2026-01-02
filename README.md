@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-### 📈
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=g1st&custom_title=My%20GitHub%20Stats)
-
 <!--
 **g1st/g1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
